@@ -19,7 +19,7 @@
 	},
 	
     "require": {
-		 "rok9ru/trpo-core": "3.0"
+		 "rok9ru/trpo-core": "2.0"
 	},
 	
 	"require-dev": {
